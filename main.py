@@ -18,6 +18,7 @@ def afficher_menu():
                       6 : Quitter       
                       
                       entrer votre choix ? """))
+                      
 
     if choix == 1 :
       ajouter_etudiant()
